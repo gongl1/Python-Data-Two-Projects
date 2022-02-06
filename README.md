@@ -1,9 +1,9 @@
 # Python-Data-Two-Projects
 
-# unstack
+# unstack: pivot
 
 ![1-Logo](Images/unstack.PNG)
 
-# cross-section
+# cross-section: .xs
 
 ![2-Logo](Images/cross-section.PNG)
